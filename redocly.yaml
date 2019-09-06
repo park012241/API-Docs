@@ -1,0 +1,8 @@
+
+apiTitle: javaTeamP
+splitSpec: false
+codeSamples: false
+swaggerUI: false
+travis: true
+repo: 'https://github.com/DSMJavaTeamProject/API-Docs'
+oasVersion: 3.0.0
